@@ -28,7 +28,7 @@ _**All times are in EST time**_
 | 6:00p  | Class Dismissed                  |
 
 
-[Class Live Rep](https://repl.it/@SayeedJoseph/Class-Repo-Notes)
+[Class Live Repo](https://repl.it/@SayeedJoseph/Class-Repo-Notes)
 
 # Lab: 
 
