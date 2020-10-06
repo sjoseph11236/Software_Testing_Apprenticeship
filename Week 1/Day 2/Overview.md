@@ -63,5 +63,4 @@ _**All times are in EST time**_
 
 [Exit Ticket](https://forms.gle/UGwPy6vkvpqnqpUF6)
 
-
 # Resources:
