@@ -43,8 +43,69 @@ class Main {
     public static void main(String[] args){
         System.out.println("hello from day-2!");
         // this prints 29!
-        System.out.println(sum(12, 17))
+        System.out.println(sum(12, 17));
     }
 }
+
+```
+
+It's possible to access methods in other classes, let's take a look at this example:
+
+```java
+
+class AnotherClass {
+    public int multiply(int a, int b){
+        return a * b; 
+    }
+}
+
+```
+
+If I wanted to use this class's method I would need to *instatiate* an object in my main class.
+
+
+```java
+
+class Main {
+
+    public static void main(String[] args){
+
+        AnotherClass myObject = new AnotherClass();
+        //this prints 20! 
+        System.out.println(myObject.multiply(4,5));
+
+        System.out.println("hello from day-2!");
+        // this prints 29!
+        System.out.println(sum(12, 17));
+    }
+}
+
+
+```
+
+Instantiating involves utilizing the `new` keyword. This tells Java that you want to create an *instance* of this class. Classes will represent the *type* of object, just like how `int` or `String` is a type.
+
+Lets write a method that tells us if a number is odd. 
+
+```java
+
+class Main {
+
+    // oddchecking method
+
+    public static boolean isOdd(int x){
+
+        return x % 2 == 0 ? true : false; 
+
+    }
+
+    public static void main(String[] args){
+
+        // returns false!
+        System.out.println(isOdd(3));
+
+    }
+}
+
 
 ```
