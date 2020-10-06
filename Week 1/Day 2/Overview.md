@@ -8,23 +8,26 @@ _**All times are in EST time**_
 
 | Time   | Objective                        |
 | -------|:---------------------------------|
-| 9:30a  | Introduction & Course Overview   |
-| 10:15a | Data Types Workshop              |
-| 11:00a | Practice                         |
-| 11:20a | Reference Types: Arrays & Loops  |
+| 9:00a  | Announcements and Attendance     |
+| 9:15a  | Review Exit tix                  |
+| 9:45a  | Break                            |
+| 10:00a | Methods                          |
+| 10:30a | Break                            |
+| 10:45a | Reference Types: Arrays & Loops  |
+| 11:15a | Break                            |
+| 11:30a | Group workshop                   |
 | 12:00p | Lunch                            |
-| 1:30P  | Reference Types: Strings         |
-| 2:30p  | Lab (Peer Program)               |
-| 4:00p  | Office Hours                     |
-| 5:00p  | Exit Ticket                      |
-| 5:30p  | Class Dismissed                  |
+| 1:30p  | Git hub Setup & Md Walkthrough   | 
+| 2:30p  | Break                            |
+| 3:00p  | Reference Types: Strings         |
+| 3:30p  | Break                            |
+| 3:45p  | Lab (Peer Program)               |
+| 4:45p  | Break                            |
+| 5:00p  | Exit Ticket & Office Hours       |
+| 6:00p  | Class Dismissed                  |
 
 
-# Practice 
-
-- [Opposite Number](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/java)
-- [Basic Mathematical Operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/java)
-- [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)
+[Class Live Rep](https://repl.it/@SayeedJoseph/Class-Repo-Notes)
 
 # Lab: 
 
@@ -57,11 +60,7 @@ _**All times are in EST time**_
 
 # Wrap up
 
-[Exit Ticket](https://forms.gle/RcLWLAabQ8wERsuL7)
+[Exit Ticket](https://forms.gle/UGwPy6vkvpqnqpUF6)
 
 
 # Resources:
-
-[Primitive Data Types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
-
-[Variable Initialization vs. Declaration vs. Assignment](http://guidetojava.com/mydoc/5d_VariableInit.html)
