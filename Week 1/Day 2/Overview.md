@@ -1,8 +1,8 @@
 # October 6th, 2020 (Day 2)
 
 ## Agenda
-> Learn about methods, Arrays, and Strings
-> Create own Github accounts.
+> Learn about methods, Arrays, and Strings.
+> Create Github accounts.
 
 ## Outline
 _**All times are in EST time**_
