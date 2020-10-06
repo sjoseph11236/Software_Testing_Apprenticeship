@@ -55,7 +55,7 @@ It's possible to access methods in other classes, let's take a look at this exam
 
 class AnotherClass {
     public int multiply(int a, int b){
-        return a * b; 
+        return a * b;
     }
 }
 
@@ -107,5 +107,49 @@ class Main {
     }
 }
 
+
+```
+
+## arrays
+
+In Java, there are situations where we need to operate on not just one value, but many values.
+
+As such, there's a specific data structure we can use to make operating on groups of values easier. It's called an *array*. Here's an example:
+
+```java
+
+// note the [] next to the type
+int[] myIntArr = {1, 2, 3, 4, 5};
+
+// you can declare an array like this as well but please dont!
+int myOtherArr[];
+
+// you can declare an empty array as well with a specific length
+
+int[] yetAnotherArr = new int[5];
+
+```
+
+You can pull a specific value from an array by referring to its *index*. This index will start at 0. You can even change the associated value at that index.
+
+```java
+
+// this represents the first element: 1
+int first = myIntArr[0];
+
+// the first element is now 2
+myIntArr[0] = 2;
+
+```
+
+Arrays have the `length` properties, this will tell you the amount of positions available in the array:
+
+```java
+
+int[] myArray = {3, 5, 1, 0, 2};
+
+// returns the number of positions allocated to the array
+// this will give you 5
+int size = myArray.length;
 
 ```
