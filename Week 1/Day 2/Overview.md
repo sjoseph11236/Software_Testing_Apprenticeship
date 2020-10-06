@@ -1,7 +1,8 @@
-# October 5th, 2020 (Day 1)
+# October 6th, 2020 (Day 2)
 
 ## Agenda
-> Introductions and learn Java Data Types, Operators, Loops, Conditionals, Strings, Arrays
+> Learn about methods, Arrays, and Strings.
+> Create Github accounts.
 
 ## Outline
 _**All times are in EST time**_
@@ -61,6 +62,5 @@ _**All times are in EST time**_
 # Wrap up
 
 [Exit Ticket](https://forms.gle/UGwPy6vkvpqnqpUF6)
-
 
 # Resources:
