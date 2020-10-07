@@ -109,3 +109,5 @@ class Main {
 
 
 ```
+
+Think of a method as a unit of work. Ideally, functions should do one thing, only one thing, and do that one thing very well. Method names should be expressive and tell you what the method is doing.
