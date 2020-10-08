@@ -19,7 +19,7 @@ _**All times are in EST time**_
 | 2:30p  | Stacks & Queues                  |
 | 3:00p  | Lab B                            |
 | 4:00p  | COF 101                          |
-| 5:00p  | LeetCode B & Office hours         |
+| 5:00p  | LeetCode B & Office hours        |
 | 5:30p  | Exit Ticket                      |
 | 6:00p  | Class Dismissed                  |
 
@@ -51,4 +51,7 @@ _**All times are in EST time**_
 
 # Resources:
 
-[JDK vs JRE vs JVM](https://www.journaldev.com/546/difference-jdk-vs-jre-vs-jvm)
+- [JDK vs JRE vs JVM](https://www.journaldev.com/546/difference-jdk-vs-jre-vs-jvm)
+
+**A strong resource to understand Computer Fundamentals and System Design**:
+- [Systems Expert](https://www.algoexpert.io/systems/product)
