@@ -53,5 +53,7 @@ _**All times are in EST time**_
 
 - [JDK vs JRE vs JVM](https://www.journaldev.com/546/difference-jdk-vs-jre-vs-jvm)
 
+-[JDK Core Libraries](https://docs.oracle.com/javase/10/core/java-core-libraries1.htm#JSCOR-GUID-C6BE8117-F73E-4BE6-98AA-681A0CD4EEA9)
+
 **A strong resource to understand Computer Fundamentals and System Design**:
 - [Systems Expert](https://www.algoexpert.io/systems/product)
