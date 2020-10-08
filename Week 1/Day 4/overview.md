@@ -10,7 +10,7 @@ _**All times are in EST time**_
 | -------|:---------------------------------|
 | 9:00a  | Install JDKs  & Eclipse          |
 | 9:30a  | JDK, JRE, JVM                    |
-| 9:50a  | Objects                          |
+| 9:40a  | Objects                          |
 | 10:20a | Break                            |
 | 11:00a | Lab A                            |
 | 11:30a | immutable vs mutable classes     |
