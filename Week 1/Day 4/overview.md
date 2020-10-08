@@ -41,7 +41,7 @@ _**All times are in EST time**_
   - [ Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
 
   ## Lab A 
-  - Create two classes of your own the use construct overloading
+  - Create two classes of your own that use construct overloading
   
   ## Lab B
   - Create a program that uses the scanner and enrolls a user into a selected course.
