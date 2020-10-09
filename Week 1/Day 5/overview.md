@@ -28,7 +28,7 @@ _**All times are in EST time**_
 
   - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
-  ##Leetcode B:
+  ## Leetcode B:
   - [kill Process](https://leetcode.com/problems/kill-process/)
   - [minStack](https://leetcode.com/problems/min-stack/)
   - [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
