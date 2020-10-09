@@ -1,6 +1,6 @@
 # Review Questions
  
- ## Data type:
+
   - What are the 8 primitive types in Java? 
   - What is immutability?
   - What is casting?
