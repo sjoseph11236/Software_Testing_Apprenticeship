@@ -4,7 +4,7 @@
 > OOP, I/O, Stacks, Queues, and Recap
 
 ## Homework 
-**Read through all Java lessons in TST 101 and all of COF 101 by Monday. Have all projects completed on Exeter by next week Friday(October 16th)**
+**Read through all Java lessons in TST 101 and all of COF 101. Have all projects completed on Exeter by next week Friday(October 16th)**
 
 ## Outline
 _**All times are in EST time**_
