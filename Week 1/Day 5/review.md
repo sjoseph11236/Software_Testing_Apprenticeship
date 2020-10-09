@@ -1,6 +1,6 @@
 # Review Questions
  
- ##Data type:
+ ## Data type:
   - What are the 8 primitive types in Java? 
   - What is immutability?
   - What is casting?
@@ -13,12 +13,10 @@
   - What is scope? 
   - what is overloading? Can you give an example?  
   - What is the difference between HashMap and HashSet? 
-  - What does .hashCode() give you?
   - What is the difference between and ArrayList vs Array? 
   - What is the JDK? 
   - What is the JVM? 
   - What is the JRE?
-  - What is Java 8?
   - Why is the main method important? 
   - What are the three parts of For Loop? 
   - What is Wrapper class ?
