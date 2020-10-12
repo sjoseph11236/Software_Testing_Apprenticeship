@@ -36,18 +36,15 @@ _**All times are in EST time**_
  - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 
   ## Lab A: 
-  - Create a markdown file with partner about SDLC and STLC.
-      - What are they? 
-      - What are the steps of each process? 
-      - Why do we use them?
-
-  ## Lab B: 
-  - Create a tests for this list of methods and push to Githubs: 
+ - Create a tests for this list of methods and push to Githubs: 
       - Create a method that adds two numbers. 
       - Create a method that subtracts two numbers 
       - Create a method that divides two numbers. 
       - Create a method that multiplies two numbers. 
       - Create a method that gets the circumference. 
+
+  ## Lab B: 
+  - Recreate the String class and write appropriate test. Then, push to Github.
        **If you complete lab before class ends, complete and submit leetcode problems to github** 
 # Exit Tix 
   - **Submit Lab A to Github.**
@@ -55,3 +52,4 @@ _**All times are in EST time**_
 # Resources:
 **A strong resource to understand Computer Fundamentals and System Design**:
 - [Systems Expert](https://www.algoexpert.io/systems/product)
+- [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
