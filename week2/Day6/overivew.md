@@ -36,7 +36,7 @@ _**All times are in EST time**_
  - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 
   ## Lab A: 
- - Create a tests for this list of methods and push to Githubs: 
+ - Create a tests for this list of methods and push to Github: 
       - Create a method that adds two numbers. 
       - Create a method that subtracts two numbers 
       - Create a method that divides two numbers. 
