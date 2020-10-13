@@ -46,6 +46,7 @@ _**All times are in EST time**_
   ## Lab B: 
   - Recreate the String class and write appropriate test. Then, push to Github.
        **If you complete lab before class ends, complete and submit leetcode problems to github** 
+       
 # Exit Tix 
   - **Submit Lab A to Github.**
 

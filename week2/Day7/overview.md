@@ -27,11 +27,13 @@ _**All times are in EST time**_
 
 # Lab
   ## Leetcode:
-
-    TBD
-
+  
+  [LRU Cache](https://leetcode.com/problems/lru-cache/)
+  [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
+  [Design Twitter](https://leetcode.com/problems/design-twitter/)
+  
   ## Lab A: 
-  - Build Anonymous and Inner class. Write appropriate tests for methods and objects. Add to Github. 
+  - Build an Inner class. Write appropriate tests for methods and objects. Add to Github. 
 
   ## Lab B: 
   - Create you own generic class and write appropriate tests. Add to Github. 
@@ -43,3 +45,4 @@ _**All times are in EST time**_
 # Resources:
 **A strong resource to understand Computer Fundamentals and System Design**:
 - [Systems Expert](https://www.algoexpert.io/systems/product)
+- [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
