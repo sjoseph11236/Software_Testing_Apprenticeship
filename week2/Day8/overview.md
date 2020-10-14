@@ -28,13 +28,15 @@ _**All times are in EST time**_
 # Lab
   ## Leetcode:
 
-    TBD
+   - [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
+   - [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)
+   - [Island Perimeter](https://leetcode.com/problems/island-perimeter/)
 
   ## Lab A: 
   - Create your own schema design with tables and relationships using [erdPlus](https://erdplus.com/standalone).Take a screen shot and create a markdown file with screen shot to **add to Github.**
 
   ## Lab B: 
-    - Create your own exception and test it.**Add to Github**
+    - Create your own exceptions and test them.**Add to Github**
 
 # Exit Tix 
   - **Submit Lab A to Github.**
