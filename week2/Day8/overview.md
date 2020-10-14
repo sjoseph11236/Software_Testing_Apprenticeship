@@ -31,10 +31,10 @@ _**All times are in EST time**_
     TBD
 
   ## Lab A: 
-  - Use basic commands to create a table of students with name, email, age.**Add to Github**
+  - Create your own schema design with tables and relationships using [erdPlus](https://erdplus.com/standalone).Take a screen shot and create a markdown file with screen shot to **add to Github.**
 
   ## Lab B: 
-    - Create your onw exception and test it.**Add to Github**
+    - Create your own exception and test it.**Add to Github**
 
 # Exit Tix 
   - **Submit Lab A to Github.**
@@ -42,3 +42,4 @@ _**All times are in EST time**_
 # Resources:
 **A strong resource to understand Computer Fundamentals and System Design**:
 - [Systems Expert](https://www.algoexpert.io/systems/product)
+- [Stack and heap](https://www.baeldung.com/java-stack-heap)
