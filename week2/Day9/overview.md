@@ -31,10 +31,10 @@ _**All times are in EST time**_
     TBD
 
   ## Lab A: 
-  - Create two tables, student and courses, that have a relationship.**Add to Github**
+  - Create your own schema with two different tables that have a relationship.**Add to Github**
 
   ## Lab B: 
-    - Create a three classes database, Student and course. The courses should have a collection of students that take that course. The database should track a collection of courses and a collection of students. Write appropriate tests in Junit. **Add to Github**
+    - Create a three classes database, Student and course. The courses should have a collection of students that take that course. The database should track a collection of courses and a collection of students. Write appropriate tests in Junit.**Add to Github**
 
 # Exit Tix 
   - **Submit Lab A to Github.**
