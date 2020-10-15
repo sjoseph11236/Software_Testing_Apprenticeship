@@ -1,7 +1,7 @@
 # October 15th, 2020 (Day 10)
 
 ## Agenda
-> Enums, BDD, noSQL
+> Enums, SpringBoot, java 8, noSQL
 
 ## Homework 
 **Keep practicing**
@@ -12,10 +12,10 @@ _**All times are in EST time**_
 | Time   | Objective                        |
 | -------|:---------------------------------|
 | 9:00a  | Recap                            |
-| 9:10a  | Single/Double Linked Lists       |
+| 9:10a  | Spring Boot install              |    
 | 10:00a | Break                            |
 | 10:10a | Enums                            |
-| 10:40a | BDD                              |
+| 10:40a | Java 8                           |
 | 11:00a | noSQL  (Firebase)                |
 | 12:00p | Lunch                            |
 | 1:30p  | Lab A                            | 
@@ -33,7 +33,7 @@ _**All times are in EST time**_
   ## Lab:
    **Choose one of the following**
   - Re-create a Linked List class and write tests
-  - Complete lessons on Exeter.
+  - Complete all lessons on Exeter.
   - Complete leetcode
 
 # Exit Tix 
