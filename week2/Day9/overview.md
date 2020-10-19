@@ -28,10 +28,12 @@ _**All times are in EST time**_
 # Lab
   ## Leetcode:
 
-    TBD
+  - [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)
+  - [Design Underground System](https://leetcode.com/problems/design-underground-system)
+  - [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)
 
   ## Lab A: 
-  - Create your own schema with two different tables that have a relationship.**Add to Github**
+  - Create **your own schema with two different tables** that have a relationship.**Add to Github**
 
   ## Lab B: 
     - Create a three classes database, Student and course. The courses should have a collection of students that take that course. The database should track a collection of courses and a collection of students. Write appropriate tests in Junit.**Add to Github**

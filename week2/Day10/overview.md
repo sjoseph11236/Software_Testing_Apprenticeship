@@ -16,7 +16,7 @@ _**All times are in EST time**_
 | 10:00a | Break                            |
 | 10:10a | Enums                            |
 | 10:40a | Java 8                           |
-| 11:00a | noSQL  (Firebase)                |
+| 11:00a | noSQL (Firebase)                 |
 | 12:00p | Lunch                            |
 | 1:30p  | Lab A                            | 
 | 2:15p  | Leetcode                         |
@@ -27,9 +27,11 @@ _**All times are in EST time**_
 
 # Lab
   ## Leetcode:
+  - [Sort Array](https://leetcode.com/problems/sort-an-array/)
+  - [Construct K Palindrom strings](https://leetcode.com/problems/construct-k-palindrome-strings/)
+  - [Find the longest substring vowels in even counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/)
 
-    TBD
-
+  
   ## Lab:
    **Choose one of the following**
   - Re-create a Linked List class and write tests
