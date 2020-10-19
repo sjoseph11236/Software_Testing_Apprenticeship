@@ -12,7 +12,7 @@ _**All times are in EST time**_
 | Time   | Objective                        |
 | -------|:---------------------------------|
 | 9:00a  | Recap                            |
-| 9:30a  | TDD                              |    
+| 9:30a  | Design Patterns                  |    
 | 10:00a | Break                            |
 | 10:10a | Test Planning                    |
 | 10:40a | TDD Review Fundamentals          |

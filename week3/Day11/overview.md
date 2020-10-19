@@ -27,7 +27,8 @@ _**All times are in EST time**_
 
 # Lab
   ## Leetcode:
-  - TBD 
+  - [keyboard Row](https://leetcode.com/problems/keyboard-row/)
+  - [maximum number of ballons](https://leetcode.com/problems/maximum-number-of-balloons/)
 
   ## Labs:
   - Lab A: [myList](../labs/mylist.md)
