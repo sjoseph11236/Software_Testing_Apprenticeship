@@ -31,8 +31,8 @@ _**All times are in EST time**_
   - [maximum number of ballons](https://leetcode.com/problems/maximum-number-of-balloons/)
 
   ## Labs:
-  - Lab A: [myList](../labs/mylist.md)
-  - Lab B: [cartonCalculator](../labs/cartonCalculator.md)
+  - Lab A: [myList](./Labs/mylist.md)
+  - Lab B: [cartonCalculator](./Labs/cartonCalculator.md)
 
 # Exit Tix 
   - **Submit any leetcode and/or lab to Github.**
