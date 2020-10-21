@@ -28,8 +28,8 @@ _**All times are in EST time**_
   - [Rank Teams by votes](https://leetcode.com/problems/rank-teams-by-votes/)
   
   ## Labs:
-  -  Lab A: [greeting](./labs/greeting.md)
-  -  Lab B: Create a tic tac toe game and write appropriate tests. 
+  -  Lab A: Create your own MVC that is able to store a table with data in the h2 database. 
+  -  Lab B: Create a tic tac toe game and write appropriate tests using tdd. 
 
 # Exit Tix 
   - **Submit any leetcode and/or lab to Github.**

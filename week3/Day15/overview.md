@@ -27,7 +27,7 @@ _**All times are in EST time**_
   - TBD 
   
   ## Labs:
-  - TBD
+  - [greeting](./labs/greeting.md)
 
 # Exit Tix 
   - **Submit any leetcode and/or lab to Github.**

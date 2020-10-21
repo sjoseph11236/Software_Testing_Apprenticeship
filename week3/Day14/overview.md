@@ -24,10 +24,13 @@ _**All times are in EST time**_
 
 # Lab
   ## Leetcode:
-  - TBD 
-  
+   - [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
+   - [Decode String](https://leetcode.com/problems/decode-string/)
+   - [Balanced binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+   
   ## Labs:
-  - TBD
+   - Lab A: [fizzbuzz](./labs/fizzBuzz.md)
+   - Lab B: [fibonacci](./labs/fibonacci.md)
 
 # Exit Tix 
   - **Submit any leetcode and/or lab to Github.**
@@ -35,3 +38,4 @@ _**All times are in EST time**_
 # Resources:
 **A strong resource to understand Computer Fundamentals and System Design**:
 - [Systems Expert](https://www.algoexpert.io/systems/product)
+- [REACTO](https://www.fullstackacademy.com/blog/whiteboard-coding-interviews-a-6-step-process-to-solve-any-problem)
