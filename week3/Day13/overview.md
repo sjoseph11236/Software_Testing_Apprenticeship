@@ -35,7 +35,7 @@ _**All times are in EST time**_
   - **Submit any leetcode and/or lab to Github.**
 
 # Test Overview: 
-  - [Types of Testing](https://docs.google.com/presentation/d/1ovKcEIfqNj69JeVQTBzFZobZGeVjyqTBLdsxMgzviXQ/edit?usp=sharing)
+  - [Types of Testing](https://docs.google.com/presentation/d/1tB_gXisJyCi-G6NKJeRcyhT85WZJfTvJ7HvbhbxPwNo/edit?usp=sharing)
   - [SDLC](https://docs.google.com/presentation/d/1XSo-xlIBFBV9EPHRE1FRcXIdT0ppGgKOxuikqQqnA00/edit?usp=sharing)
   
 **A strong resource to understand Computer Fundamentals and System Design**:
