@@ -34,6 +34,9 @@ _**All times are in EST time**_
 # Exit Tix 
   - **Submit any leetcode and/or lab to Github.**
 
+# Test Overview: 
+  - [Types of Testing](https://docs.google.com/presentation/d/1ovKcEIfqNj69JeVQTBzFZobZGeVjyqTBLdsxMgzviXQ/edit?usp=sharing)
+
 # Resources:
 **A strong resource to understand Computer Fundamentals and System Design**:
 - [Systems Expert](https://www.algoexpert.io/systems/product)
