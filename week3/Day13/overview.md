@@ -1,7 +1,7 @@
 # October 21st, 2020 (Day 13)
 
 ## Agenda
-> Java I/O, ATDD 
+> MVC, JDBC, Testing types
 
 ## Homework 
 **Keep practicing**
@@ -12,10 +12,9 @@ _**All times are in EST time**_
 | Time   | Objective                        |
 | -------|:---------------------------------|
 | 9:00a  | Recap                            |
-| 9:30a  | Java I/O                         |    
+| 9:30a  | Types of Testing                 |    
 | 10:00a | Break                            |
-| 10:10a | ATDD                             |
-| 10:40a | ATDD Review Fundamentals         |
+| 10:10a | MVC                              |
 | 12:00p | Lunch                            |
 | 1:30p  | Exeter                           | 
 | 3:30p  | Labs & Leetcode                  |
@@ -24,10 +23,13 @@ _**All times are in EST time**_
 
 # Lab
   ## Leetcode:
-  - TBD 
+  - [Find the town Judge](https://leetcode.com/problems/find-the-town-judge/)
+  - [Best time to Buy and sell stock with transaction fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
+  - [Rank Teams by votes](https://leetcode.com/problems/rank-teams-by-votes/)
   
   ## Labs:
-  - TBD
+  -  Lab A: [greeting](./labs/greeting.md)
+  -  Lab B: Create a tic tac toe game and write appropriate tests. 
 
 # Exit Tix 
   - **Submit any leetcode and/or lab to Github.**
