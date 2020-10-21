@@ -36,8 +36,8 @@ _**All times are in EST time**_
 
 # Test Overview: 
   - [Types of Testing](https://docs.google.com/presentation/d/1ovKcEIfqNj69JeVQTBzFZobZGeVjyqTBLdsxMgzviXQ/edit?usp=sharing)
-
-# Resources:
+  - [SDLC](https://docs.google.com/presentation/d/1XSo-xlIBFBV9EPHRE1FRcXIdT0ppGgKOxuikqQqnA00/edit?usp=sharing)
+  
 **A strong resource to understand Computer Fundamentals and System Design**:
 - [Systems Expert](https://www.algoexpert.io/systems/product)
 - [REACTO](https://www.fullstackacademy.com/blog/whiteboard-coding-interviews-a-6-step-process-to-solve-any-problem)
