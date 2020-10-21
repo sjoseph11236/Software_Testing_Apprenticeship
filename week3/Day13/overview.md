@@ -37,3 +37,4 @@ _**All times are in EST time**_
 # Resources:
 **A strong resource to understand Computer Fundamentals and System Design**:
 - [Systems Expert](https://www.algoexpert.io/systems/product)
+- [REACTO](https://www.fullstackacademy.com/blog/whiteboard-coding-interviews-a-6-step-process-to-solve-any-problem)
