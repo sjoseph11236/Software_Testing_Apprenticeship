@@ -29,8 +29,8 @@ _**All times are in EST time**_
    - [Balanced binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
    
   ## Labs:
-   - Lab A: [fizzbuzz](./labs/fizzBuzz.md)
-   - Lab B: [fibonacci](./labs/fibonacci.md)
+   - Lab A: Create your own API and test all CRUD routes. 
+   - Lab B: Create a service and test with mockito.
 
 # Exit Tix 
   - **Submit any leetcode and/or lab to Github.**
