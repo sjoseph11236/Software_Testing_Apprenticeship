@@ -1,7 +1,7 @@
 # October 22nd, 2020 (Day 14)
 
 ## Agenda
-> Mockito, BDD
+> Mockito, Postman, Web Server
 
 ## Homework 
 **Keep practicing**
@@ -14,8 +14,8 @@ _**All times are in EST time**_
 | 9:00a  | Recap                            |
 | 9:30a  | Mockito                          |    
 | 10:00a | Break                            |
-| 10:10a | BDD                              |
-| 10:40a | BDD Review Fundamentals          |
+| 10:10a | Postman & Web Server             |
+| 10:40a | Postman & Web Server             |
 | 12:00p | Lunch                            |
 | 1:30p  | Exeter                           | 
 | 3:30p  | Labs & Leetcode                  |
