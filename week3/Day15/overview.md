@@ -11,23 +11,20 @@ _**All times are in EST time**_
 
 | Time   | Objective                        |
 | -------|:---------------------------------|
-| 9:00a  | Recap                            |
-| 9:30a  | Github Projects                  |    
-| 10:00a | Break                            |
-| 10:10a | Trello                           |
-| 10:40a | Tickets & Testing                |
+| 9:00a  | Java fundamentals                |  
+| 10:00a | SQL fudamentals                  |
+| 11:00a | Testing  Fundamentals            |
 | 12:00p | Lunch                            |
 | 1:30p  | Exeter                           | 
-| 3:30p  | Labs & Leetcode                  |
-| 5:00p  | Labs, Leetcode & Office Hours    |
-| 6:00p  | Class Dismissed                  |
+| 2:00p  | Special Guest                    |
+| 5:30p  | Class Dismissed                  |
 
 # Lab
   ## Leetcode:
   - TBD 
   
   ## Labs:
-  - [greeting](./labs/greeting.md)
+  - **Go to the Labs folder in Day 15 and complete all projects starting with Mockito MVC. Write appropriate tests for every method you make. Add all work to Github. If your done with labs do all leetcode above**
 
 # Exit Tix 
   - **Submit any leetcode and/or lab to Github.**
@@ -35,3 +32,4 @@ _**All times are in EST time**_
 # Resources:
 **A strong resource to understand Computer Fundamentals and System Design**:
 - [Systems Expert](https://www.algoexpert.io/systems/product)
+
