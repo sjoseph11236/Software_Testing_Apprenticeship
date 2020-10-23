@@ -21,7 +21,9 @@ _**All times are in EST time**_
 
 # Lab
   ## Leetcode:
-  - TBD 
+  - [reverse vowels of a string](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+  - [minimum number of steps to make two strings anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)
+  - [making file names unique](https://leetcode.com/problems/making-file-names-unique/)
   
   ## Labs:
   - **Go to the Labs folder in Day 15 and complete all projects starting with Mockito MVC. Write appropriate tests for every method you make. Add all work to Github. If your done with labs do all leetcode above**
