@@ -4,8 +4,6 @@
 
 >Lab-A will focus on creating a spring boot microservice with full CRUD, a database, at least 3 models, and a service layer for each model. All major business logic will have to be tested. Try to be as test-driven as you possibly can. This project will evolve as the week goes on and you will ideally implement a view by the end of the week.
 
->Lab-C will focus on tackling codewars problems together as a team in an agile fashion. It will be your job to agree on problems together, agree on roles, and assign tasks. You will need to write your tests first and implement the code after the fact in order to follow test-driven-development.
-
 1. Assign your roles! Make sure you have a *team lead* and a *scrum master*. Try to have a *scribe* as well.
 2. Create at least one epic with user stories broken down into tasks.
 3. Have one repo that everyone will push and pull against up on GitHub. Maintain sensible policies for maintaining branches and avoid pushing to *main* as much as you can.
