@@ -30,7 +30,7 @@ _**All times are in EST time**_
   
   ## Labs:
   - [Lab A](./Labs/labA.md)
-  - [Lab C](./labs/labC.md)
+  - [Lab C](./Labs/labC.md)
   
 # Exit Tix 
   - **Submit any leetcode and/or lab to Github.**
