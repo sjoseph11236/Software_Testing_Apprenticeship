@@ -19,7 +19,7 @@ _**All times are in EST time**_
 | 10:40a | Walkthrough                      |
 | 12:00p | Lunch                            |
 | 1:30p  | Exeter                           | 
-| 2:00p  | Special Guest                    |
+| 3:30p  | Labs                             |
 | 5:30p  | Class Dismissed                  |
 
 # Lab
