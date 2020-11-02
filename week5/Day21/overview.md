@@ -25,7 +25,7 @@ _**All times are in EST time**_
 
    ## Selenium Lab:
   
-  - Find a site and write 10 tests using basic Selenium commands. Also, don't forget to use Selenium helper tools (IDE, Chropath);
+  - Find a site and write 10 - 15 tests using basic Selenium commands. Also, don't forget to use Selenium helper tools (IDE, Chropath);
   
 # Exit Tix 
   - **Submit any leetcode and/or lab to Github.**
