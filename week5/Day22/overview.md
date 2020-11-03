@@ -11,8 +11,8 @@ _**All times are in EST time**_
 
 | Time   | Objective                        |
 | -------|:---------------------------------|
-| 9:00a  | Recap                           |  
-| 9:30a  | TestNG                          |    
+| 9:00a  | Recap                            |  
+| 9:30a  | TestNG                           |    
 | 10:00a | Break                            |
 | 10:10a | Java I/O                         |
 | 10:40a | Selenium                         |
