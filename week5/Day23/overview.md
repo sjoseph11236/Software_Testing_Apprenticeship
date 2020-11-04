@@ -22,10 +22,9 @@ _**All times are in EST time**_
 | 5:30p  | Class Dismissed                  |
 
 # Lab
-
-   ## Deployment Lab:
+  ## Deployment Lab:
   
-  - Create your own project and deploy it on Heroku;
+  - Create your own project and deploy it on Heroku.
   
 # Exit Tix 
   - **Submit any leetcode and/or lab to Github.**
