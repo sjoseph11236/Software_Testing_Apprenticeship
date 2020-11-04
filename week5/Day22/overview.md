@@ -1,7 +1,7 @@
-# October 30th, 2020 (Day 21)
+# November 3rd, 2020 (Day 22)
 
 ## Agenda
-> Selenium, TestNG, Java I/O, Selenium
+> Selenium, TestNG, Java I/O, 
 
 ## Homework 
 **Keep practicing**
