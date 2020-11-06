@@ -14,12 +14,12 @@ _This markdown file is a list of questions you should expect to receive when int
 - Can explain what a pull request is? 
 - What is an IDE?
 
+
 ## Java Basics
 
 - Can you explain what Java is and what it's used for?
 - Do you know the distinction between the JDK, JRE, and JVM?
 - Do you know what makes Java 8 a significant update?
-
 - Do you know how to create a variable?
 - Can you explain what a class is?
 - Can you explain what a method is?
