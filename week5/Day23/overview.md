@@ -1,7 +1,7 @@
 # November 4th, 2020 (Day 23)
 
 ## Agenda
-> Deployment, Selenium and Regex
+> Deployment
 
 ## Homework 
 **Keep practicing**
