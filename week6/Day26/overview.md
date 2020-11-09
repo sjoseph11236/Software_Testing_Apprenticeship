@@ -27,7 +27,7 @@ _**All times are in EST time**_
   ## Lab A: 
   - Code along for Github Actions
   ## Lab B: 
-   - Write 7 - 10 tests and write appropriate Github actions. 
+   - Write 7 - 10 tests for a calculator or any Java.util class(Arraylist, String etc.) and write appropriate Github actions. 
   ## Lab C:
    -  Complete another walk through of Github Actions
   
