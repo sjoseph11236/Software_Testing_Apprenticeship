@@ -35,6 +35,7 @@ _**All times are in EST time**_
   - **Submit any leetcode and/or lab to Github.**
 
 # Resources:
+ - [movie api lesson](https://github.com/sjoseph11236/consume-api-demo)
 - [CI/CD Presentation](https://docs.google.com/presentation/d/1D8pSLCDrqzZSPZyWHg0_eMk5OxvpMeeOFHmHOZIT2y4/edit?usp=sharing)
 
 **A strong resource to understand Computer Fundamentals and System Design**:
