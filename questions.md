@@ -69,6 +69,7 @@ _This markdown file is a list of questions you should expect to receive when int
 - What is Integration testing?
 - What is Black-box testing?
 - What is Functional testing?
+- What is ATDD?
 
 ## Behavior-Driven Development
 
