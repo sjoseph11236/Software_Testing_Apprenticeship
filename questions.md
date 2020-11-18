@@ -92,3 +92,4 @@ _This markdown file is a list of questions you should expect to receive when int
 - What is the difference between deployment and delivery?
 - Can you describe why one would want to employ CI/CD into their projects?
 - What is Continous Testing?
+- What is a _check_?
