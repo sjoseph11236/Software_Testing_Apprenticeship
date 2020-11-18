@@ -86,7 +86,7 @@ _This markdown file is a list of questions you should expect to receive when int
 - Does java support multiple inheritance? How does the idea of multiple inheritance tie into interfaces?
 - What is `OutOfMemoryError` in Java?
 
-# CI/CD
+## CI/CD
 
 - What does CI/CD stand for?
 - What is the difference between deployment and delivery?
