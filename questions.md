@@ -3,12 +3,14 @@
 _This markdown file is a list of questions you should expect to receive when interviewed by infoSys. It is possible that you may receive most, some, or non at all. These questions will be technical in nature._
 
 ## Computer Fundamentals
-- Can you explain REST? 
+
+- Can you explain REST?
 - What is HTTP?
 - What are the four HTTP methods necessary for full CRUD?
 - Can you explain the term DNS?
 
 ## Technologies
+
 - What is Git and why would you use it?
 - What is GitHub and what is it used for?
 - Can explain what a pull request is?
@@ -83,3 +85,10 @@ _This markdown file is a list of questions you should expect to receive when int
 - What does `super()` mean?
 - Does java support multiple inheritance? How does the idea of multiple inheritance tie into interfaces?
 - What is `OutOfMemoryError` in Java?
+
+# CI/CD
+
+- What does CI/CD stand for?
+- What is the difference between deployment and delivery?
+- Can you describe why one would want to employ CI/CD into their projects?
+- What is Continous Testing?
