@@ -5,6 +5,7 @@ _This markdown file is a list of questions you should expect to receive when int
 ## Computer Fundamentals
 
 - Can you explain REST?
+- What does SOAP stand for? How is it different from REST? 
 - What is HTTP?
 - What are the four HTTP methods necessary for full CRUD?
 - Can you explain the term DNS?
@@ -12,7 +13,7 @@ _This markdown file is a list of questions you should expect to receive when int
 - What is a client?
 - What is a server?
 - What is a URL?
-- WHat is a URI?
+- What is a URI?
 
 ## Technologies
 
@@ -43,7 +44,7 @@ _This markdown file is a list of questions you should expect to receive when int
 - Do you know the significance of the *main* method?
 - What is the difference between declaring and initializing?
 - What is an exception?
-- Wha is the difference between checked and unchecked exceptions?
+- What is the difference between checked and unchecked exceptions?
 - What is an error
 - What is a generic?
 
@@ -108,9 +109,6 @@ _This markdown file is a list of questions you should expect to receive when int
 ## IT and Customer Service
 
 - What does ITIL stand for and what does it refer to?
-- WHat does SLA stand for and what does it refer to?
+- What does SLA stand for and what does it refer to?
 
-## SOA
 
-- What is SOAP?
-- What is SOA?
